@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📏 Ultrasonic Distance Measurement using 8051 (AT89S52)
 
 A microcontroller-based distance measuring system that uses an ultrasonic sensor to detect object distance and displays the result in centimeters on a 16x2 LCD — with a buzzer alert for close-range objects.
@@ -77,3 +78,7 @@ B.Tech ECE, Central University of Rajasthan (CURAJ)
 ## 📄 License
 
 This project is open-source and available for educational use.
+=======
+# DistanceMeasurmentUsing8051
+ "Ultrasonic distance measurement system using 8051 (AT89S52) and HC-SR04"
+>>>>>>> cad740a7faa4d954eab48e772ba9a17c7f905b06
